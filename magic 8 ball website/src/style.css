@@ -1,0 +1,37 @@
+#Top {
+            background-color: rgb(100, 55, 96);
+            outline-width: 20cm;
+            outline-color: aquamarine;
+            color: aliceblue;
+            padding-left: 45%;
+            opacity: 60%;
+            border-style: hidden;
+            
+        }
+
+        body {
+            background-color: blueviolet;
+            
+        }
+
+        #input {
+            background-color: brown;
+        }
+        #ball{
+            padding-left: 25%;
+        }
+
+        #text_box {
+            color: rgb(252, 252, 252);
+            opacity: 70%;
+            padding-left: 43.7%;
+            border: 30%;
+        }
+
+        #Img {
+            width: 70%;
+        }
+
+        #bottom {
+            background-color: aliceblue;
+        }
