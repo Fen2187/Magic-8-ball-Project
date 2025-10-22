@@ -1,0 +1,131 @@
+#header{
+    backdrop-filter: blur(10px);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.541);
+    text-align: right;
+    padding-right: 10px;
+    
+}
+
+#title {
+    text-align: center;
+    color: rgb(247, 127, 0);
+    text-shadow: 0 0 20px rgb(252, 191, 73);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    text-align: top;
+}
+
+nav a {
+    color: rgb(247, 127, 0);
+    margin: 0 15px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#big_text {
+    color: rgb(252, 252, 252);
+    font-size: 17px;
+    text-align: left;
+    margin: 0 15px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Top {
+            background-color: rgba(0, 0, 0, 0);
+            outline-width: 20cm;
+            outline-color: aquamarine;
+            color: rgb(234, 226, 183);
+            border-style: hidden;
+
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            border-radius: 5px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0);
+            text-align: center;
+            font-family: sans-serif;
+            
+            
+        }
+
+        body {
+            text-shadow: 0 0 20px rgb(252, 191, 73);
+            background: linear-gradient(to right, rgb(0, 47, 73) 75%, rgb(247, 127, 0) 100%);
+            backdrop-filter: blur(10px);
+        }
+
+        #input {
+            background-color: rgba(255, 255, 255, 0);
+            text-align: center;
+            display: block;
+            margin: 0 auto;
+            color: rgb(234, 226, 183);
+
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            border-radius: 5px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0);
+            text-align: center;
+            font-family: sans-serif;
+            padding-bottom: 5%;
+            padding-top: 10px;
+            
+
+        }
+
+        #split {
+            height: 90px;
+        }
+
+        #text_box {
+            color: rgb(252, 252, 252);
+            opacity: 70%;
+            border: 30%;
+            size: 50%;
+        }
+
+        #ask {
+            color: rgb(224, 170, 255);
+
+            text-align: center;
+        }
+
+        #Img {
+
+        backdrop-filter: blur(10px);
+        }
+
+        #bottom {
+            background-color: rgba(89, 24, 154, 0);
+            opacity: 50%;
+            text-align: center;
+
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            border-radius: 5px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0);
+            text-align: center;
+            color: white;
+            font-family: sans-serif;
+        }
+
+        #trying {
+            color: rgb(255, 255, 255);
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        #enter {
+            background-color: rgba(255, 255, 255, 0);
+            border: none;
+            cursor: pointer;
+        }
+
+        #enter:hover {
+            background-color: rgba(255, 255, 255, 0);
+            border: none;
+            cursor: pointer;
+            outline: 2px solid rgb(255, 255, 255);
+        }
